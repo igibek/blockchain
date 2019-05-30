@@ -1,2 +1,2 @@
-# blockchain
-*Blockchain* is a tutorial repository to get start with blockchain technology. 
+# Blockchain
+**Blockchain** is a tutorial repository to get start with blockchain technology. 
